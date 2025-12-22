@@ -6,7 +6,7 @@ I constantly strive to learn and improve myself in building better and more
 efficient websites to enhance the user experience.
 
 ## ⚙️ Toolbox
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,php,python,react,nodejs,express,laravel,nextjs,bootstrap,tailwind,mysql,postgresql,mongodb,prisma,redis,git,github,gitlab,postman,notion,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,php,python,react,nodejs,express,laravel,nextjs,bootstrap,tailwind,mysql,postgresql,mongodb,supabase,prisma,redis,git,github,gitlab,cloudflare,vercel,postman,notion,figma)
 
 ## 📈 Recent Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andyhap&theme=rose)](https://github.com/ashutosh00710/github-readme-activity-graph)
