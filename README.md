@@ -17,3 +17,9 @@ efficient websites to enhance the user experience.</b>
   <img src="https://github-readme-stats.vercel.app/api?username=andyhap&show_icons=true&theme=rose" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyhap&layout=compact&theme=rose" height="170"/>
 </div>
+
+</br>
+
+<a href="www.linkedin.com/in/andy-hikmal-p">
+  <img align="right" alt="Andy Hikmal Parakkasi | Twitter" width="21px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
+</a>
