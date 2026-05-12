@@ -1,4 +1,4 @@
-# Hi, I'm Hikmal (andyhap)
+# Hi, I'm Hikmal
 **Informatics Engineering Student | Network & System Administrator | Web Developer**
 
 <table>
