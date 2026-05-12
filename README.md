@@ -14,8 +14,8 @@ efficient websites to enhance the user experience.</b>
 
 ## 📊 Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=andyhap&show_icons=true&theme=rose" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyhap&layout=compact&theme=rose" height="170"/>
+  <img src="https://github-readme-stats-sable-rho-84.vercel.app/api?username=andyhap&show_icons=true&theme=rose" height="165"/>
+  <img src="https://github-readme-stats-sable-rho-84.vercel.app/api/top-langs/?username=andyhap&layout=compact&theme=rose" height="170"/>
 </div>
 
 </br>
