@@ -25,9 +25,6 @@
 ## Toolbox
 ![My Skills](https://skillicons.dev/icons?i=nix,debian,ubuntu,html,css,javascript,typescript,php,python,react,nodejs,vue,express,laravel,nextjs,nginx,elysia,bootstrap,tailwind,mysql,postgresql,mongodb,supabase,prisma,redis,git,github,gitlab,cloudflare,vercel,postman,notion,figma)
 
-## Recent Activity
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andyhap&theme=rose&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffb6c1&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## Stats
 <div>
